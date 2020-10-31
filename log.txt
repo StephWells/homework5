@@ -1,0 +1,1 @@
+The class average is 79 for 3 students.
