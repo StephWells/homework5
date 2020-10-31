@@ -26,8 +26,8 @@ def write_file(file_name='log.txt', records=[]):
     print(f'Write to {inside_filename} executed.')
 
 def calc_letters():
-    BOOK_TEXT = 'book.txt'  #Remove the comment symbol to test the book.txt scenario
-    #BOOK_TEXT = 'book_bbbbb.txt'
+    #BOOK_TEXT = 'book.txt'  #Remove the comment symbol to test the book.txt scenario
+    BOOK_TEXT = 'book_bbbbb.txt'
     ALL_LETTERS = "It has all letters."
     MISSING_LETTERS = "It doesn't have all letters."
     BEG_ORD = ord('A')
