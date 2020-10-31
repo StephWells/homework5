@@ -1,0 +1,28 @@
+A 27
+B 7
+C 14
+D 9
+E 60
+F 11
+G 4
+H 22
+I 27
+J 2
+K 1
+L 15
+M 17
+N 44
+O 34
+P 9
+Q 0
+R 20
+S 18
+T 41
+U 8
+V 5
+W 9
+X 0
+Y 7
+Z 0
+
+It doesn't have all letters.
